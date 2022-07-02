@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "talpak-gaming-client-mobile",
+    "slug": "talpak-gaming-client-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
